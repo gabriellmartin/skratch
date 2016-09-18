@@ -7,4 +7,4 @@ webby snippets
 ### GH pages
 
 
-These are at https://patrickmmartin.github.io/skratch/
+These are at https://gabriellmartin.github.io/skratch/
